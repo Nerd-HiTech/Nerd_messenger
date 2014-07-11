@@ -20,7 +20,7 @@
         android:layout_alignParentLeft="true"
         android:layout_toLeftOf="@+id/button1"
         android:ems="10"
-        android:inputType="TYPE_CLASS_TEXT" />
+        android:inputType="text" />
 
     <Button
         android:id="@+id/button1"
